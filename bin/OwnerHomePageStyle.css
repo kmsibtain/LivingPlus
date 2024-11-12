@@ -1,0 +1,7 @@
+.custom-border-pane {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-border-radius: 5px;
+    -fx-background-color: #718F94;
+}
